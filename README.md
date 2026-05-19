@@ -1,6 +1,10 @@
 # kevin-wqc.github.io
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Video</title>
+</head>
+
 <body style="margin:0;background:black;">
 <video controls autoplay playsinline style="width:100vw;height:100vh;">
   <source src="video.mp4" type="video/mp4">
